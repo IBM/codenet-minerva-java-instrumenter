@@ -14,6 +14,7 @@ docker run --rm -it -v [target dir]:/var/install minerva-agent
 java -javaagent:[base dir]/minerva-agent-1.0-jar-with-dependencies.jar=[JSON-based configuration file or a directory containing instrumenter-config.json] ...
 
 e.g. java -javaagent:/c/eclipse/minerva-agent/agent/target/minerva-agent-1.0-jar-with-dependencies.jar=/c/example/agent-config.json ...
+
 e.g. java -javaagent:/c/eclipse/minerva-agent/agent/target/minerva-agent-1.0-jar-with-dependencies.jar=/c/example ... (if /c/example contains instrumenter-config.json)
 
 # Configuration (JSON)
