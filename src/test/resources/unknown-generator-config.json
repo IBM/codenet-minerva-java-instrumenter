@@ -1,0 +1,11 @@
+{
+	"filter": {
+		"type": "package",
+		"version": "1.0",
+		"config": "example"
+	},
+	"generator": {
+		"type": "generator-that-does-not-exist",
+		"version": "77.77"
+	}
+}
