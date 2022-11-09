@@ -1,0 +1,11 @@
+{
+	"filter": {
+		"type": "package",
+		"version": "1.0",
+		"config": ["example"]
+	},
+	"generator": {
+		"type": "java-util-logging",
+		"version": "1.0"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"filter": {
+		"type": "sym-ref-tables",
+		"version": "1.0",
+		"config": "tables/nojparser"
+	},
+	"generator": {
+		"type": "println",
+		"version": "1.0",
+		"config": "out"
+	},
+	"logging": "info"
+}

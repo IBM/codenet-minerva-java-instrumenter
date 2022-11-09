@@ -1,0 +1,11 @@
+{
+	"filter": {
+		"type": "filter-that-does-not-exist",
+		"version": "88.88",
+		"config": "configValue"
+	},
+	"generator": {
+		"type": "println",
+		"version": "1.0"
+	}
+}
